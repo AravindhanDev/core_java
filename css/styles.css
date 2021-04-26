@@ -1,0 +1,22 @@
+#brand{
+  font-family: Ubuntu;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: Montserrat-light;
+}
+
+.content{
+  margin: 50px 30px 0;
+}
+
+.content p{
+  font-size: 20px;
+}
